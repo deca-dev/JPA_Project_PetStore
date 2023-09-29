@@ -1,0 +1,13 @@
+/Users/David/NetBeansProjects/TodoCodeAcademy_POO/18_Proyecto_Peluqueria_Canina/src/main/java/com/mycompany/_proyecto_peluqueria_canina/igu/CargaDatos.java
+/Users/David/NetBeansProjects/TodoCodeAcademy_POO/18_Proyecto_Peluqueria_Canina/src/main/java/com/mycompany/_proyecto_peluqueria_canina/igu/Principal.java
+/Users/David/NetBeansProjects/TodoCodeAcademy_POO/18_Proyecto_Peluqueria_Canina/src/main/java/com/mycompany/_proyecto_peluqueria_canina/igu/VerDatos.java
+/Users/David/NetBeansProjects/TodoCodeAcademy_POO/18_Proyecto_Peluqueria_Canina/src/main/java/com/mycompany/_proyecto_peluqueria_canina/logica/Duenio.java
+/Users/David/NetBeansProjects/TodoCodeAcademy_POO/18_Proyecto_Peluqueria_Canina/src/main/java/com/mycompany/_proyecto_peluqueria_canina/persistencia/Controladora.java
+/Users/David/NetBeansProjects/TodoCodeAcademy_POO/18_Proyecto_Peluqueria_Canina/src/main/java/com/mycompany/_proyecto_peluqueria_canina/persistencia/exceptions/PreexistingEntityException.java
+/Users/David/NetBeansProjects/TodoCodeAcademy_POO/18_Proyecto_Peluqueria_Canina/src/main/java/com/mycompany/_proyecto_peluqueria_canina/persistencia/ControladoraPersistencia.java
+/Users/David/NetBeansProjects/TodoCodeAcademy_POO/18_Proyecto_Peluqueria_Canina/src/main/java/com/mycompany/_proyecto_peluqueria_canina/logica/Mascota.java
+/Users/David/NetBeansProjects/TodoCodeAcademy_POO/18_Proyecto_Peluqueria_Canina/src/main/java/com/mycompany/_proyecto_peluqueria_canina/persistencia/MascotaJpaController.java
+/Users/David/NetBeansProjects/TodoCodeAcademy_POO/18_Proyecto_Peluqueria_Canina/src/main/java/com/mycompany/_proyecto_peluqueria_canina/persistencia/exceptions/NonexistentEntityException.java
+/Users/David/NetBeansProjects/TodoCodeAcademy_POO/18_Proyecto_Peluqueria_Canina/src/main/java/com/mycompany/_proyecto_peluqueria_canina/persistencia/exceptions/IllegalOrphanException.java
+/Users/David/NetBeansProjects/TodoCodeAcademy_POO/18_Proyecto_Peluqueria_Canina/src/main/java/com/mycompany/_proyecto_peluqueria_canina/persistencia/DuenioJpaController.java
+/Users/David/NetBeansProjects/TodoCodeAcademy_POO/18_Proyecto_Peluqueria_Canina/src/main/java/com/mycompany/_proyecto_peluqueria_canina/App.java
